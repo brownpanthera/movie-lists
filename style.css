@@ -119,23 +119,12 @@ a{
     text-decoration: none;
 }
 
-@media only screen and (max-width: 300px){
+@media only screen and (max-width: 500px){
     a{
-        color: rgb(218, 44, 13);
+        color: orange;
         font-size: 20px;
-        top: 11.5%;
-        left: 65px;
+        top: 3.9%;
+        left: 10%;
 
-    }
-
-    .search {
-        background-color: transparent;
-        border: 2px solid #f0a00d;
-        border-radius: 50px;
-        color: #fff;
-        font-family: inherit;
-        font-size: 1rem;
-        padding: 0.5rem 1rem;
-        margin-left: 50px;
     }
 }
